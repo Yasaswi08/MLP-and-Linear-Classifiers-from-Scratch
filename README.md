@@ -5,3 +5,6 @@ Several Machine Learning models were implemented from the scratch in the python 
 2. Logistic Regression
 3. Perceptron
 4. Softmax
+5. Nueral Network with hidden layers with Gradient Descent Optimization
+6. Nueral Network with hidden layers with Adam Optimizer
+
