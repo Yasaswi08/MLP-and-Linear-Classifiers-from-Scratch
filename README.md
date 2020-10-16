@@ -11,5 +11,5 @@ The implemented models include:
 2. Logistic Regression
 3. Perceptron
 4. Softmax
-5. Nueral Network with hidden layers with Gradient Descent Optimization
-6. Nueral Network with hidden layers with Adam Optimizer
+5. Multi Layer Nueral Network with Gradient Descent Optimization
+6. Multi Layer Nueral Network with Adam Optimizer
