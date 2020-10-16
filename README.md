@@ -12,3 +12,4 @@ The implemented models include:
 4. Softmax
 5. Nueral Network with hidden layers with Gradient Descent Optimization
 6. Nueral Network with hidden layers with Adam Optimizer
+
